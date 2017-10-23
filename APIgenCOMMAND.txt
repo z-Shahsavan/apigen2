@@ -1,0 +1,23 @@
+Microsoft Windows [Version 6.3.9600]
+(c) 2013 Microsoft Corporation. All rights reserved.
+
+C:\Users\Zahra>cd \
+
+C:\>cd composer\vendor\bin
+
+C:\composer\vendor\bin>apigen generate -s "C:\Users\Zahra\PhpstormProjects\myTest1\app" -d "c:\x"
+Scanning sources and parsing
+Found 37 classes, 0 constants and 0 functions
+Generating API documentation
+  0 %
+  9 %
+ 18 %
+ 28 %
+ 37 %
+ 47 %
+ 56 %
+ 65 %
+ 75 %
+ 84 %
+ 94 %
+100 % - Finished!
